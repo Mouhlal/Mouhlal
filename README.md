@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akram%20Mouhlal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20Data%20%26%20IA%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=Étudiant+ingénieur+4e+année+%40+EMSI+Casablanca;Machine+Learning+%7C+Deep+Learning+%7C+LLM+%26+RAG;Data+Engineering+%7C+Data+Analysis;À+la+recherche+d'un+stage+PFE+de+6+mois+(février+2027))](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akram%20Mouhlal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VOTRE-LIEN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akram%20Mouhlal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-mouhlal-755b42291)
 [![Email](https://img.shields.io/badge/Email-akramemouhlal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramemouhlal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20mes%20projets-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB)](https://VOTRE-PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20mes%20projets-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB)](https://mon-portfolio-coral-mu.vercel.app/)
 ![Disponibilité](https://img.shields.io/badge/PFE-Février%202027-2ea44f?style=for-the-badge)
 
 </div>
@@ -15,7 +14,7 @@
 
 ## 👋 À propos
 
-Étudiant en **4ᵉ année d'ingénierie informatique à l'EMSI (Casablanca)**, option **Data & Intelligence Artificielle**.
+Étudiant en **5ᵉ année d'ingénierie informatique à l'EMSI (Casablanca)**, option **Data & Intelligence Artificielle**.
 Je conçois des applications de bout en bout : de la **donnée** (ETL, analyse, modèles ML) jusqu'à la **mise en production** (API, interface web, Docker).
 
 - 🔭 Je construis des systèmes **RAG** et **multi-agents** (LangGraph) pour des cas d'usage réels
@@ -66,14 +65,12 @@ Je conçois des applications de bout en bout : de la **donnée** (ETL, analyse, 
 
 | Projet | Description | Stack |
 |---|---|---|
-| 📰 **[ALM News Intelligence](https://github.com/USERNAME/REPO)** | Plateforme IA pour le journal *Aujourd'hui Le Maroc* : recherche sémantique vectorielle et assistant RAG anti-hallucination | React, FastAPI, PostgreSQL, Qdrant, Docker |
-| 🏥 **[MediOrient AI](https://github.com/USERNAME/REPO)** | Système multi-agents de pré-orientation clinique | LangGraph, FastAPI, SQLite, React |
-| 📊 **[DataPulse AI](https://github.com/USERNAME/REPO)** | Plateforme d'analyse e-commerce : Pandas, ML et RAG | Django, React, Pandas, Scikit-learn, Gemini |
+| 📰 **[ALM News Intelligence](https://github.com/Mouhlal/ALM_Insight_AI)** | Plateforme IA pour le journal *Aujourd'hui Le Maroc* : recherche sémantique vectorielle et assistant RAG anti-hallucination | React, FastAPI, PostgreSQL, Qdrant, Docker |
+| 🏥 **[MediOrient AI](https://github.com/Mouhlal/MediGraph-AI)** | Système multi-agents de pré-orientation clinique | LangGraph, FastAPI, SQLite, React |
+| 📊 **[DataPulse AI](https://github.com/Mouhlal/DataPulse-Ai)** | Plateforme d'analyse e-commerce : Pandas, ML et RAG | Django, React, Pandas, Scikit-learn, Gemini |
 | 🧪 **[AI Data Analyst](https://github.com/USERNAME/REPO)** | Plateforme no-code d'analyse de données et de ML | Django REST, Pandas, Scikit-learn, React |
 | 🛒 **[Nutstree.ma](https://nutstree.ma)** | E-commerce déployé en production (freelance) | Full-stack |
-| 🔎 **[SmartDocRAG](https://github.com/USERNAME/REPO)** | Recherche sémantique sur PDF/TXT | PyMuPDF, sentence-transformers, Streamlit |
 
-> 💡 Remplacez chaque `USERNAME/REPO` par le lien réel de votre dépôt.
 
 ---
 
@@ -102,6 +99,6 @@ Je conçois des applications de bout en bout : de la **donnée** (ETL, analyse, 
 ## 📫 Me contacter
 
 Je suis ouvert aux opportunités de **stage PFE (Data / IA / AI Engineering)** à partir de **février 2027**.
-👉 [LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN) · ✉️ akramemouhlal@gmail.com
+👉 [LinkedIn](https://linkedin.com/in/akram-mouhlal-755b42291) · ✉️ akramemouhlal@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
