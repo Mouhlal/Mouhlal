@@ -25,15 +25,15 @@ Currently focusing on **Data Engineering, Machine Learning, Big Data, and Genera
 
 **Programming Languages**
 
-Python · JavaScript · PHP · SQL
+Python · JavaScript · PHP · SQL · Java 
 
 **Data & Artificial Intelligence**
 
-Pandas · NumPy · Scikit-learn · PySpark · Machine Learning
+Pandas · NumPy · Scikit-learn · PySpark · Machine Learning · Deep Learning · Apache AirFlow · Kafka · Data Warehouse
 
 **Backend & Frontend**
 
-Django · Laravel · React · Next.js · MySQL
+Django · Laravel · React · Next.js · MySQL · Express js · Symfony 
 
 **Tools & Technologies**
 
