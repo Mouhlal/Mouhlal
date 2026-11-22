@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=Étudiant+ingénieur+4e+année+%40+EMSI+Casablanca;Machine+Learning+%7C+Deep+Learning+%7C+LLM+%26+RAG;Data+Engineering+%7C+Data+Analysis;À+la+recherche+d'un+stage+PFE+de+6+mois+(février+2027))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=Étudiant+ingénieur+5e+année+%40+EMSI+Casablanca;Machine+Learning+%7C+Deep+Learning+%7C+LLM+%26+RAG;Data+Engineering+%7C+Data+Analysis;À+la+recherche+d'un+stage+PFE+de+6+mois+(février+2027))](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akram%20Mouhlal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-mouhlal-755b42291)
 [![Email](https://img.shields.io/badge/Email-akramemouhlal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramemouhlal@gmail.com)
