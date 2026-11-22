@@ -18,7 +18,7 @@
 Je conçois des applications de bout en bout : de la **donnée** (ETL, analyse, modèles ML) jusqu'à la **mise en production** (API, interface web, Docker).
 
 - 🔭 Je construis des systèmes **RAG** et **multi-agents** (LangGraph) pour des cas d'usage réels
-- 🌱 J'approfondis **Data Engineering** : ETL/ELT, Kafka, Airflow, NiFi
+- 🌱 J'approfondis **Data Engineering** : ETL/ELT, Kafka, Airflow, NiFi, Spark(PySpark), Pig
 - 💼 Développeur **freelance** full-stack, plateforme e-commerce déployée en production
 - 🎯 **Recherche un stage PFE de 6 mois à partir de février 2027** (Data / IA / AI Engineering)
 
